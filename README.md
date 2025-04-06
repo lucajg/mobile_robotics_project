@@ -4,4 +4,5 @@ Implementations of Computer Vision (OpenCV), Global Navigation (A*), Local Navig
 
 **Requirements**
   - JupyterNotebooks
-  - OpenCV
+  - TdmClient
+  - OpenCV, Scipy, Numpy
